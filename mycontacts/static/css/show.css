@@ -5,7 +5,7 @@ html{
 	font-size: 50px;
 }
 .email{
-	color: #656e70;
+	color: #320b3b;
 }
 .grid {
   		overflow: hidden;
@@ -28,7 +28,7 @@ html{
 			text-align: center;
 		}
 		.grid li a {
-			color: #0B6121;
+			color: #320b3b;
 		}
 		
 		@media all and (min-width: 27em) {
@@ -76,7 +76,7 @@ body {
   
   width: 100%; 
   height: 95px;
-  background-color:#ca4095;
+  background-color: #320b3b;
   
   
   position: absolute; /*keeps the footer at the bottom*/
@@ -87,7 +87,7 @@ body {
 
 .header {
   color:white;
-  background-color: #ca4095;
+  background-color: #320b3b;
   width: 100%;
   position:fixed;
   text-align: center;
@@ -98,27 +98,28 @@ body {
 	text-decoration:none;
 	display:block;
     color:white;
+	background: url(image url) center center no-repeat;
 	margin-right: 12px;
 	padding: 15px 25px;
 }
 
 .header a:hover {
-	text-decoration:none;
+    text-decoration:none;
     color:white;
-    background-color: #0B6121;
+    background-color: #320b3b;
     display:block;
     padding: 15px 25px;
 }
 
 .header h2 a {
-	text-decoration:none;
+    text-decoration:none;
     color:white;
-	padding: 0px 0px;
+    padding: 0px 0px;
 }
 
 .header h2 a:hover {
-	text-decoration:none;
+    text-decoration:none;
     color:white;
-    background-color: #0B3B39;
+    background-color: #320b3b;
     padding: 0px 0px
 }
